@@ -1,2 +1,2 @@
-# Databricks Demos
+# Databricks Sandbox
 ## Structured Streaming Pipeline
